@@ -1,0 +1,10 @@
+﻿  Test.cpp
+e:\技术\redblacktree\redblacktree\rbtree.h(199): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+  e:\技术\redblacktree\redblacktree\rbtree.h(197): note: 编译类 模板 成员函数“void RBTree<int>::DrawPicture(void)”时
+  e:\技术\redblacktree\redblacktree\test.cpp(15): note: 参见对正在编译的函数 模板 实例化“void RBTree<int>::DrawPicture(void)”的引用
+  e:\技术\redblacktree\redblacktree\test.cpp(9): note: 参见对正在编译的类 模板 实例化“RBTree<int>”的引用
+  正在生成代码...
+  正在跳过...(未检测到相关更改)
+  RBTree.cpp
+  RedBlackTree.vcxproj -> E:\技术\RedBlackTree\Debug\RedBlackTree.exe
+  RedBlackTree.vcxproj -> E:\技术\RedBlackTree\Debug\RedBlackTree.pdb (Partial PDB)
